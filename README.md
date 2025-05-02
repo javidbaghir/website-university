@@ -1,12 +1,25 @@
-# React + Vite
+# University Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern and responsive university website built with **React**. The project showcases a clean and simple design, smooth navigation, and structured layout suitable for any academic institution.
 
-Currently, two official plugins are available:
+## 🔧 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React** – Frontend JavaScript library for building the UI
+- **CSS** – For styling and layout
+- **react-scroll** – To enable smooth scrolling between sections
+- **Web3Forms** – To handle contact form submissions easily without a backend
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Fully responsive design
+- Clean and modern user interface
+- Smooth scroll navigation between sections
+- Structured homepage with sections like About, Courses, Contact, etc.
+- **Contact form powered by Web3Forms** for instant message delivery
+
+## 📸 Screenshots
+
+<img width="1425" alt="Screenshot 2025-05-02 at 14 18 23" src="https://github.com/user-attachments/assets/1e19ae1f-3220-4392-8b6e-f94268aa51cd" />
+
+<img width="1440" alt="Screenshot 2025-05-02 at 14 18 42" src="https://github.com/user-attachments/assets/4090bbce-dcd6-4f60-80b1-8ad61329189f" />
+<img width="1338" alt="Screenshot 2025-05-02 at 14 19 01" src="https://github.com/user-attachments/assets/f11d3799-23b6-44eb-b0be-9e1a0e9c893f" />
